@@ -3,7 +3,7 @@
     <modelVersion>4.0.0</modelVersion>
     <groupId>eu.eurofleets</groupId>
     <artifactId>ears3-ontology-ext</artifactId>
-    <version>1.0</version>
+    <version>0.9</version>
     <packaging>jar</packaging>
     <dependencies>
        <!-- <dependency>

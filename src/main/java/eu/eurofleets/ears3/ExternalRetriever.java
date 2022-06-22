@@ -5,7 +5,6 @@
  */
 package eu.eurofleets.ears3;
 
-import java.util.Map;
 import wsimport.uk.ac.nerc.vocab.Vocabv2;
 import wsimport.uk.ac.nerc.vocab.Vocabv2_Service;
 import wsimport.uk.ac.nerc.vocab.types.Concept;
